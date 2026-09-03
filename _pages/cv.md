@@ -43,10 +43,6 @@ Completed Information Management Systems coursework and a data-driven group proj
 - Improved preprocessing and model optimization, and produced reproducible visualizations and documentation.
 - Received Software Copyright No. 2025SR1322266.
 
-## Experience
-
-**Wuxi Senyo Metal Display Corp., Ltd** · R&D Intern · July-August 2024<br>
-Designed product models and supported prototype fabrication using CAD and SolidWorks.
 
 ## Awards
 
