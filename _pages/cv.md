@@ -16,11 +16,9 @@ MSc in Computer Science, General Stream · 2026-2027 (expected)
 
 **Nanjing Agricultural University** · Nanjing, China<br>
 BEng in Computer Science and Technology · 2022-2026<br>
-GPA: 87.53/100
 
 **National Chung Hsing University** · Taiwan<br>
 Exchange programme · February-June 2025<br>
-Completed Information Management Systems coursework and a data-driven group project with a final grade of 93/100.
 
 ## Research Experience
 
@@ -48,9 +46,3 @@ Completed Information Management Systems coursework and a data-driven group proj
 
 - Second-Class Scholarship, Nanjing Agricultural University · 2024
 - Second-Class Scholarship, Nanjing Agricultural University · 2023
-
-## Skills
-
-**Programming and ML:** Python, PyTorch, TensorFlow, scikit-learn, NumPy<br>
-**Research:** Transfer learning, bioinformatics preprocessing, model evaluation, ablation studies, scientific visualization, technical writing<br>
-**Languages:** Mandarin (native), English (fluent; IELTS 6.5, CET-4, CET-6)
